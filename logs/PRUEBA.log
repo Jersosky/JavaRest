@@ -1,0 +1,27 @@
+2023-10-07 19:21:43,938 INFO c.e.P.c.Controller [http-nio-8080-exec-1] Se va a registrar a Julian
+2023-10-07 19:21:43,938 INFO c.e.P.i.JulianServiceImpl [http-nio-8080-exec-1] registrar julian prueba: 1024
+2023-10-07 19:21:44,013 INFO c.e.P.c.Controller [http-nio-8080-exec-1] Se registró a Julián
+2023-10-07 19:39:22,453 INFO c.e.P.PruebaApplication [main] Starting PruebaApplication using Java 17.0.8.1 on DESKTOP-T5909BN with PID 10216 (D:\Descargas\Prueba\Prueba\target\classes started by Jerson in D:\Descargas\Prueba\Prueba)
+2023-10-07 19:39:22,472 INFO c.e.P.PruebaApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-10-07 19:39:25,409 INFO c.e.P.PruebaApplication [main] Started PruebaApplication in 3.338 seconds (JVM running for 4.371)
+2023-10-07 19:39:40,241 INFO c.e.P.c.Controller [http-nio-8080-exec-1] Se va a registrar a Julian
+2023-10-07 19:39:40,242 INFO c.e.P.i.JulianServiceImpl [http-nio-8080-exec-1] Se va a consultar el usurio con id:10
+2023-10-07 19:39:40,305 INFO c.e.P.i.JulianServiceImpl [http-nio-8080-exec-1] registrar julian prueba: 1024
+2023-10-07 19:39:40,331 INFO c.e.P.c.Controller [http-nio-8080-exec-1] Se registró a Julián
+2023-10-07 19:40:07,357 INFO c.e.P.c.Controller [http-nio-8080-exec-3] Se va a registrar a Julian
+2023-10-07 19:40:07,357 INFO c.e.P.i.JulianServiceImpl [http-nio-8080-exec-3] Se va a consultar el usurio con id:10
+2023-10-07 19:40:07,370 WARN c.e.P.c.Controller [http-nio-8080-exec-3] Julian ya existe
+2023-10-07 19:50:57,225 INFO c.e.P.PruebaApplication [main] Starting PruebaApplication using Java 17.0.8.1 on DESKTOP-T5909BN with PID 7200 (D:\Descargas\Prueba\Prueba\target\classes started by Jerson in D:\Descargas\Prueba\Prueba)
+2023-10-07 19:50:57,234 INFO c.e.P.PruebaApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-10-07 19:51:00,170 INFO c.e.P.PruebaApplication [main] Started PruebaApplication in 3.314 seconds (JVM running for 4.326)
+2023-10-07 19:51:35,371 INFO c.e.P.c.Controller [http-nio-8080-exec-1] Se va a consultar al Julian: 1
+2023-10-07 19:51:35,371 INFO c.e.P.i.JulianServiceImpl [http-nio-8080-exec-1] Se va a consultar el usurio con id:1
+2023-10-07 19:51:59,716 INFO c.e.P.c.Controller [http-nio-8080-exec-3] Se va a consultar al Julian: 1
+2023-10-07 19:51:59,716 INFO c.e.P.i.JulianServiceImpl [http-nio-8080-exec-3] Se va a consultar el usurio con id:1
+2023-10-07 19:54:21,145 INFO c.e.P.PruebaApplication [main] Starting PruebaApplication using Java 17.0.8.1 on DESKTOP-T5909BN with PID 15732 (D:\Descargas\Prueba\Prueba\target\classes started by Jerson in D:\Descargas\Prueba\Prueba)
+2023-10-07 19:54:21,158 INFO c.e.P.PruebaApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-10-07 19:54:24,148 INFO c.e.P.PruebaApplication [main] Started PruebaApplication in 3.361 seconds (JVM running for 4.323)
+2023-10-07 19:54:31,157 INFO c.e.P.c.Controller [http-nio-8080-exec-2] Se va a registrar a Julian
+2023-10-07 19:54:31,157 INFO c.e.P.i.JulianServiceImpl [http-nio-8080-exec-2] Se va a consultar el usurio con id:11
+2023-10-07 19:54:31,221 INFO c.e.P.i.JulianServiceImpl [http-nio-8080-exec-2] registrar julian prueba: 1024
+2023-10-07 19:54:31,246 INFO c.e.P.c.Controller [http-nio-8080-exec-2] Se registró a Julián
